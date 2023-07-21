@@ -1,0 +1,19 @@
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\bin\Debug\net6.0\XML to json.exe
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\bin\Debug\net6.0\XML to json.deps.json
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\bin\Debug\net6.0\XML to json.runtimeconfig.json
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\bin\Debug\net6.0\XML to json.dll
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\bin\Debug\net6.0\XML to json.pdb
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\bin\Debug\net6.0\ClassLibrary24.dll
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\bin\Debug\net6.0\ClassLibrary24.pdb
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\XML to json.csproj.AssemblyReference.cache
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\XML to json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\XML to json.AssemblyInfoInputs.cache
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\XML to json.AssemblyInfo.cs
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\XML to json.csproj.CoreCompileInputs.cache
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\XML to json.csproj.CopyComplete
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\XML to json.dll
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\refint\XML to json.dll
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\XML to json.pdb
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\XML to json.genruntimeconfig.cache
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\obj\Debug\net6.0\ref\XML to json.dll
+C:\Users\Jayant\Desktop\C# Workspace\XML to json\bin\Debug\net6.0\Newtonsoft.Json.dll

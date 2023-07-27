@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = XML_to_json
-build_property.ProjectDir = C:\Users\Jayant\Desktop\C# Workspace\Convert_xml_to_json\
+build_property.RootNamespace = ClassLibrary24
+build_property.ProjectDir = C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\

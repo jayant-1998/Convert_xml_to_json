@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jayant\\Desktop\\C# Workspace\\XML to json\\XML to json.csproj": {}
+    "C:\\Users\\Jayant\\Desktop\\C# Workspace\\Convert_xml_to_json\\XML to json.csproj": {}
   },
   "projects": {
     "C:\\Users\\Jayant\\Desktop\\C# Workspace\\ClassLibrary24\\ClassLibrary24.csproj": {
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Jayant\\Desktop\\C# Workspace\\XML to json\\XML to json.csproj": {
+    "C:\\Users\\Jayant\\Desktop\\C# Workspace\\Convert_xml_to_json\\XML to json.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jayant\\Desktop\\C# Workspace\\XML to json\\XML to json.csproj",
+        "projectUniqueName": "C:\\Users\\Jayant\\Desktop\\C# Workspace\\Convert_xml_to_json\\XML to json.csproj",
         "projectName": "XML to json",
-        "projectPath": "C:\\Users\\Jayant\\Desktop\\C# Workspace\\XML to json\\XML to json.csproj",
+        "projectPath": "C:\\Users\\Jayant\\Desktop\\C# Workspace\\Convert_xml_to_json\\XML to json.csproj",
         "packagesPath": "C:\\Users\\Jayant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jayant\\Desktop\\C# Workspace\\XML to json\\obj\\",
+        "outputPath": "C:\\Users\\Jayant\\Desktop\\C# Workspace\\Convert_xml_to_json\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

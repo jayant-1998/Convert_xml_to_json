@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qNYS65O64htSWnMIiOQLT10XDCx4B/IPgMf8D0YrQoVZKzAQ5Xk0umViUnMRD8kw4IgRehk9fHL/oaS32d08eg==",
+  "dgSpecHash": "OOBhkwmykt7LKhjx4+5fVaNPbdOtZhuKatbBe+fPqbdmgwgZMZk/a/s+aHe3xr7lO86ad6YCNRx1TIRpxGF6/w==",
   "success": false,
-  "projectFilePath": "C:\\Users\\Jayant\\Desktop\\C# Workspace\\Convert_xml_to_json\\XML to json.csproj",
+  "projectFilePath": "C:\\Users\\Jayant\\Desktop\\C# Workspace\\ClassLibrary24\\ClassLibrary24.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {

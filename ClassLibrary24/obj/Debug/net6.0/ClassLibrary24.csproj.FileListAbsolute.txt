@@ -1,0 +1,12 @@
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\bin\Debug\net6.0\ClassLibrary24.deps.json
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\bin\Debug\net6.0\ClassLibrary24.dll
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\bin\Debug\net6.0\ClassLibrary24.pdb
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\obj\Debug\net6.0\ClassLibrary24.csproj.AssemblyReference.cache
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\obj\Debug\net6.0\ClassLibrary24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\obj\Debug\net6.0\ClassLibrary24.AssemblyInfoInputs.cache
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\obj\Debug\net6.0\ClassLibrary24.AssemblyInfo.cs
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\obj\Debug\net6.0\ClassLibrary24.csproj.CoreCompileInputs.cache
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\obj\Debug\net6.0\ClassLibrary24.dll
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\obj\Debug\net6.0\refint\ClassLibrary24.dll
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\obj\Debug\net6.0\ClassLibrary24.pdb
+C:\Users\Jayant\Desktop\C# Workspace\ClassLibrary24\obj\Debug\net6.0\ref\ClassLibrary24.dll
